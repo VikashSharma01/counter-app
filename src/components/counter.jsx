@@ -1,6 +1,5 @@
 /* eslint-disable react/jsx-no-comment-textnodes */
 import React, { Component } from "react";
-// import Counters from "./counters";
 
 class Counter extends Component {
   state = {
